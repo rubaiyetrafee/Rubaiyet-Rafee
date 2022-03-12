@@ -1,9 +1,7 @@
-(https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/50924443_2282621505342791_3274809140387512320_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeFmTyIXAYOzKSpQcEoC1ujDg6F1tYowKA2DoXW1ijAoDTbPBZI8MogNhaKMayXaNLmzTrVgeZcWtbgQYT3rDNAj&_nc_ohc=96GiYXMMxjIAX8oYUvq&_nc_ht=scontent.fdac68-1.fna&oh=00_AT-mPypNNysGGNZAKe1vsSzjRdYBtXjmkv3UE3Abcl58fA&oe=625019FE)
+https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/50924443_2282621505342791_3274809140387512320_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeFmTyIXAYOzKSpQcEoC1ujDg6F1tYowKA2DoXW1ijAoDTbPBZI8MogNhaKMayXaNLmzTrVgeZcWtbgQYT3rDNAj&_nc_ohc=96GiYXMMxjIAX8oYUvq&_nc_ht=scontent.fdac68-1.fna&oh=00_AT-mPypNNysGGNZAKe1vsSzjRdYBtXjmkv3UE3Abcl58fA&oe=625019FE
 
 ### Hi there 👋, This is Rubaiyet Rafee.
 #### I'm a Web Developer.
-![I'm a Web Developer.]
-
 I love coding. I want to learn new things, especially any new language. I'm trying to be a successful WEB DEVELOPER.
 
 Skills: HTML / CSS / JQUERY / BOOTSTRAP
