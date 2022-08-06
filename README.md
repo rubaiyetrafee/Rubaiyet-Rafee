@@ -4,7 +4,7 @@
 
 I love coding. I want to learn new things, especially any new language. I'm trying to be a successful WEB DEVELOPER.
 
-Skills: HTML / CSS / JQUERY / BOOTSTRAP
+Skills: HTML / CSS / BOOTSTRAP / JQUERY / PSD to html / SASS
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Javascript 
